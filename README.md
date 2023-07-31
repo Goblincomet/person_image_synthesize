@@ -16,10 +16,6 @@
 
     :rocket:
     [Demo on Colab](https://colab.research.google.com/github/ankanbhunia/PIDM/blob/main/PIDM_demo.ipynb)
-    
-
-```
 ## Method
-
 <img src=Figures/main.png>
 
