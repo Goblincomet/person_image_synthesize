@@ -2,10 +2,6 @@
 
  <p align='center'>
   <b>
-    <a href="https://arxiv.org/abs/2211.12500">ArXiv</a>
-    | 
-    <a href="https://ankanbhunia.github.io/PIDM">Project</a>
-    | 
     <a href="https://colab.research.google.com/github/ankanbhunia/PIDM/blob/main/PIDM_demo.ipynb">Demo</a>
     |
     <a href="https://www.youtube.com/watch?v=cHdZTZurX8M">Youtube</a>
